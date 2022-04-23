@@ -1,3 +1,23 @@
 {
- "cSpell.words": ["Pinterest"]
+ "cSpell.words": ["Pinterest"],
+ "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#efb1dc",
+    "activityBar.activeBorder": "#64841b",
+    "activityBar.background": "#efb1dc",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#64841b",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#efb1dc",
+    "statusBar.background": "#e786c9",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#df5bb6",
+    "statusBarItem.remoteBackground": "#e786c9",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#e786c9",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#e786c999",
+    "titleBar.inactiveForeground": "#15202b99"
+},
+ "peacock.color": "#e786c9"
 }
