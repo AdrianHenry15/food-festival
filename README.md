@@ -25,7 +25,7 @@ This application can be used on mobile devices as well as any browser of your ch
 
 ### This is a Screenshot to see how it looks:
 
-
+![food-festival](https://user-images.githubusercontent.com/95331448/164945293-27c422d6-c9f0-41e3-a4ca-3346b20c599d.png)
 
 # Questions
 If you have any questions about the repo, open an issue or contact me on GitHub at adrianhenry15 or contact my email
